@@ -1,0 +1,32 @@
+/* Put in your css here */
+p{
+    color:blue;
+}
+h1{
+    color:blue;
+    font-size:50px;
+}
+body{
+    background: red;
+    font-family:verdana;
+}
+li{
+   display:inline;  
+   padding:10px 10px 10px 10px;
+}
+ul{
+    background:rgba(0,0,0,.4);
+}
+header{
+    text-align:center;
+    background:url("http://theartmad.com/wp-content/uploads/2015/05/Barcelona-Soccer-Team-Logo-6.jpg");
+    background-size:cover;
+    color:white;
+}
+a{
+    color:yellow;
+}
+a:hover{
+    color:blue;
+    background:red;
+}
